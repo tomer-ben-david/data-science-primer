@@ -1,4 +1,4 @@
-# data-science-primer
+# Data Science Primer
 
 ## Apache Spark
 
