@@ -1,14 +1,5 @@
 # data-science-primer
 
----
-title:  "Data Science cheatsheet"
-date:   2017-12-22 22:18:00
-categories: cheatsheet,NLP
-comments: true
-permalink: datascience-cheatsheet
----
-
-
 ## Apache Spark
 
 | **Spark Term**                           | **Description**                          |
